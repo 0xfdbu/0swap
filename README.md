@@ -162,4 +162,3 @@ All swaps are routed through Uniswap V3's `SwapRouter02` for optimal pricing/liq
 ## 📫 Questions & Support
 
 - Open an [issue](https://github.com/0xfdbu/0swap/issues) or [pull request](https://github.com/0xfdbu/0swap/pulls)
-- Join the discussion on the repo or reach out on [Twitter/X](https://twitter.com/0xfdbu)
