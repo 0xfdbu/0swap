@@ -146,6 +146,8 @@ All swaps are routed through Uniswap V3's `SwapRouter02` for optimal pricing/liq
 - Core contracts: [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - Routing: [Uniswap V3](https://uniswap.org/)
 - Chat AI: [Grok by xAI](https://x.ai/)
+- Backbone: [Dreamspace](https://dreamspace.xyz/)
+- Explorer: [Space and time](https://spaceandtime.io/)
 - UI: Custom React (see `/ui`)
 - Base chain: [base.org](https://base.org/)
 
